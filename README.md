@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm Chiara, a young PhD student 
+- 🔎 working in the field of earthquake engineering
+- 🌱 I’m currently learning more about statistics/stochastic processes and seismic engineering applied to industrial plants
+- 💬 Ask me about risk and reliability analysis for civil and industrial systems
+- 📫 How to reach me: chiara.nardin@unitn.it
+- ⚡ Fun fact: I just started to use Ansys APDL and Emacs!
 
 <!--
 **kia13nn/kia13nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
